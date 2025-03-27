@@ -17,5 +17,6 @@ public class AppTest
     {
         assertTrue( true );
         System.out.println("Push your code into the github repository using Jenkins");
+        System.out.println("Push your code into the github repository using Jenkins");
     }
 }
